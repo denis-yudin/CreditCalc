@@ -1,2 +1,2 @@
-# CreditCalc
-Task for cycles
+# Test tasks
+
